@@ -1,0 +1,1 @@
+export {OutfitsScreen} from './OutfitsScreen';
